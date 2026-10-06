@@ -1,0 +1,22 @@
+{
+ "raw_pages": "2,345",
+ "raw_words": "747,789",
+ "final_pages": "2,228",
+ "final_words": "717,742",
+ "pct_words_removed": 4.0,
+ "tidy_words": "14,821",
+ "len_pages": 72,
+ "dup_pages": 37,
+ "dup_words": "11,852",
+ "lang_pages": 8,
+ "total_tokens": "1,264,236",
+ "n_docs": 226,
+ "avg_doc_tokens": 5594,
+ "tok_per_word": 1.76,
+ "train_seqs": 546,
+ "eval_seqs": 71,
+ "params": "361,821,120",
+ "n_pairs": 96,
+ "min_words": 31,
+ "max_words": 59
+}
